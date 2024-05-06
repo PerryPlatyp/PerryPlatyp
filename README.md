@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! Welcome to my profile! <3
+#### 🧒 15 years old
+#### 🎓 Cambridge International Student
+#### 🗺 Living in Charlotte, NC
+#### 💻📸 Interested in: Computer Programming, Photography
+#### 🐍 Currently learning Python, Java, and C#
+#### ❓ If you would like to reach me about something, you can reach me at my Discord: pepper_shaker
 
 <!--
 **PerryPlatyp/PerryPlatyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
